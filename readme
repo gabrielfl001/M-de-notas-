@@ -1,0 +1,6 @@
+Esse é o meu primeiro projeto em python. É de se perceber a simplicidade dele, meu objetivo aqui não é fazer algo complicado e sim marcar meus conhecimentos.
+
+O  programa calcula a sua média em diferentes áreas de conhecimento. Coloquei como exemplo a divisão de matérias do Enem, e para não complicar tanto: a nota mínima será = 0
+e a nota máxima será = 10. No final, cada média terá, também, uma classificação em letras.
+
+Enquanto não tenho um certo aprofundamento do contexto do programa, ele apenas será isso até o devido momento.
